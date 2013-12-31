@@ -1,6 +1,7 @@
 /***********************************************************************
 * Coder Name: Kaiser Farrell
 * Copyright (C) 2013                       *
+* Sorry I'm using Malay Language for the comment
 ***********************************************************************/
 
 #include <stdlib.h>	/* akan digunakan utk exit() */
